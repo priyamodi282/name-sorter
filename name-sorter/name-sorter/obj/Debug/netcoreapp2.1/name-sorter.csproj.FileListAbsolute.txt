@@ -1,0 +1,11 @@
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\bin\Debug\netcoreapp2.1\name-sorter.deps.json
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\bin\Debug\netcoreapp2.1\name-sorter.runtimeconfig.json
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\bin\Debug\netcoreapp2.1\name-sorter.runtimeconfig.dev.json
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\bin\Debug\netcoreapp2.1\name-sorter.dll
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\bin\Debug\netcoreapp2.1\name-sorter.pdb
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.csprojAssemblyReference.cache
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.csproj.CoreCompileInputs.cache
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.AssemblyInfoInputs.cache
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.AssemblyInfo.cs
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.dll
+C:\Priya\.Net Core Test\FirstApp\name-sorter\name-sorter\name-sorter\obj\Debug\netcoreapp2.1\name-sorter.pdb
