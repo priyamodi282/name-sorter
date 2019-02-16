@@ -22,6 +22,7 @@ Unsorted List:
 After execute the application : 
 
 Sorted List : 
+
       Marin Alvarez
       Adonis Julius Archer
       Beau Tristan Bentley
