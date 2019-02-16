@@ -3,7 +3,9 @@ Name-sorter is a console application which is built in .Net Core. It use to sort
 To test the application, need to copy all the name list in "unsorted-names-list.txt" text file.
 
 
-Below is the example of the application result : 
+Example :
+
+Below is the unsorted list of name :
 
 Unsorted List: 
 
