@@ -6,6 +6,7 @@ To test the application, need to copy all the name list in "unsorted-names-list.
 Below is the example of the application result : 
 
 Unsorted List: 
+
       Janet Parsons
       Vaughn Lewis
       Adonis Julius Archer
